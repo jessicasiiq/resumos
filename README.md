@@ -1,7 +1,11 @@
-# resumos
-<<<<<<< HEAD
+# ✨ Conteúdos resumidos
 
-teste 2
-=======
-teste
->>>>>>> 99dd4ed28eef14d97d7e0dd772ebba78f9a97a35
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72312529/134153502-76f5a905-7296-4273-b072-916af7e9f184.gif" />
+</p>
+
+## 🧁 O que você encontrará aqui?
+
+Olá, tudo bem? Criei este repositório para compartilhar um pouco do que aprendo. Aqui postarei resumos e alguns exemplos práticos dos meus estudos. Sinta-se à vontade para sugerir possíveis mudanças!
+
+Até logo!
